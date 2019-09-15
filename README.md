@@ -1,6 +1,6 @@
 ## 1D Material Balance Equation (CNM)
 
-**An assignment submitted by Debajyoti Basu Sarkar for MAT 695 (Fall 2017) — offered by Dr. Feng Tian, Hampton University:**
+**An assignment submitted by Debajyoti Basu Sarkar for MAT 695 Topics in Applied Math (Numerical Methods for PDEs)—offered by Dr. Feng Tian, Hampton University:**
 
 
 <p align="center">
