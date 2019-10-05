@@ -5,20 +5,20 @@
 
 <p align="center">
   <img width="600" height="440" src="mb_one_d_cnm_01.png">
+  <br>
+  <em>The approximate solution to the initial-boundary value problem.</em>
 </p>
-
->The approximate solution to the initial-boundary value problem.
   
 <p align="center">
   <img width="600" height="440" src="mb_one_d_cnm_02.png">
+<br>
+<em>Generated approximate solution.</em>
 </p>
-
->Generated approximate solution.
 
 <p align="center">
   <img width="600" height="440" src="mb_one_d_cnm_03.png">
+  <br>
+  <em>Approximation Error. The maximum absolute error (MAE): 0.005652.</em>
 </p>
-
->Approximation Error. The maximum absolute error (MAE): 0.005652.
 
 
